@@ -1384,5 +1384,362 @@
                 "parent_id": 65
             }
         ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0066.mp4",
+                "in_project_thumbnail": "thumb_0066.jpg",
+                "in_project_id": 66,
+                "parent_id": 66
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0067.mp4",
+                "in_project_thumbnail": "thumb_0067.jpg",
+                "in_project_id": 67,
+                "parent_id": 67
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0068.mp4",
+                "in_project_thumbnail": "thumb_0068.jpg",
+                "in_project_id": 68,
+                "parent_id": 68
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0069.mp4",
+                "in_project_thumbnail": "thumb_0069.jpg",
+                "in_project_id": 69,
+                "parent_id": 69
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 6.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0070.mp4",
+                "in_project_thumbnail": "thumb_0070.jpg",
+                "in_project_id": 70,
+                "parent_id": 70
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0071.mp4",
+                "in_project_thumbnail": "thumb_0071.jpg",
+                "in_project_id": 71,
+                "parent_id": 71
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0072.mp4",
+                "in_project_thumbnail": "thumb_0072.jpg",
+                "in_project_id": 72,
+                "parent_id": 72
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0073.mp4",
+                "in_project_thumbnail": "thumb_0073.jpg",
+                "in_project_id": 73,
+                "parent_id": 73
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0074.mp4",
+                "in_project_thumbnail": "thumb_0074.jpg",
+                "in_project_id": 74,
+                "parent_id": 74
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0075.mp4",
+                "in_project_thumbnail": "thumb_0075.jpg",
+                "in_project_id": 75,
+                "parent_id": 75
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0076.mp4",
+                "in_project_thumbnail": "thumb_0076.jpg",
+                "in_project_id": 76,
+                "parent_id": 76
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0077.mp4",
+                "in_project_thumbnail": "thumb_0077.jpg",
+                "in_project_id": 77,
+                "parent_id": 77
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0078.mp4",
+                "in_project_thumbnail": "thumb_0078.jpg",
+                "in_project_id": 78,
+                "parent_id": 78
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0079.mp4",
+                "in_project_thumbnail": "thumb_0079.jpg",
+                "in_project_id": 79,
+                "parent_id": 79
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0080.mp4",
+                "in_project_thumbnail": "thumb_0080.jpg",
+                "in_project_id": 80,
+                "parent_id": 80
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0081.mp4",
+                "in_project_thumbnail": "thumb_0081.jpg",
+                "in_project_id": 81,
+                "parent_id": 81
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/media/videos/afgrl/1080p60/sections/AFGRL_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "transferability",
+                "in_project_video": "video_0082.mp4",
+                "in_project_thumbnail": "thumb_0082.jpg",
+                "in_project_id": 82,
+                "parent_id": 82
+            }
+        ]
     }
 ]
